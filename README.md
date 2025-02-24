@@ -30,6 +30,7 @@ This project is the final capstone for the IBM Data Science Professional Certifi
 #### Launch Sites & Outcomes
 ![Launch Sites](https://github.com/STBreeze/IBM-Data-Science-Capstone/blob/30ffaf00f705b7cb9367bef5cf6d9ef5df6f957e/C10%20Capstone/folium_launch%20sites.png)
 ![Launch Site Outcome](https://github.com/STBreeze/IBM-Data-Science-Capstone/blob/30ffaf00f705b7cb9367bef5cf6d9ef5df6f957e/C10%20Capstone/folium_colour%20launch%20outcomes.png)
+![Launch Site Landmarks](https://github.com/STBreeze/IBM-Data-Science-Capstone/blob/59efb89c8a67dbeb7a52f4942a841113ac9d266e/C10%20Capstone/folium_landmarks.png)
 
 ### Machine Learning Prediction
 - Created binary classification labels (`1 = success`, `0 = failure`).
@@ -47,6 +48,7 @@ This project is the final capstone for the IBM Data Science Professional Certifi
   - Launch success rates per site.
   - Payload mass vs. success rate.
   - Scatter plots & pie charts for mission outcomes.
+![Dashbaord Sample](https://github.com/STBreeze/IBM-Data-Science-Capstone/blob/b71bef179f2d708858702024306f470ce7dc80f4/C10%20Capstone/Dashboard%20sample.png)
 
 ## Dataset
 The project utilizes multiple datasets:
